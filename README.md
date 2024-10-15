@@ -34,7 +34,7 @@
   * Bases de datos: Comprensión de sistemas de gestión de bases de datos como SQL, NoSQL y herramientas de análisis de datos.
   * Ciberseguridad: Conocimientos en protección de sistemas, análisis de riesgos y gestión de incidentes de seguridad.
   * Cloud computing: Familiaridad con plataformas en la nube como AWS, Azure o Google Cloud, así como habilidades en administración y arquitectura de la nube.
-* **Stack Tecnológico del Curso:👨‍💻**
+* **Stack Tecnológico del Curso👨‍💻:**
   * Frameworks: Estructuras que simplifican el desarrollo, como React, Angular para frontend, y Django, Ruby on Rails para backend.
   * Editores de texto (Visual Studio Code, Sublime Text)
   * Compiladores (Programas que traducen código fuente a un lenguaje que el ordenador pueda entender)
