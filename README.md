@@ -34,14 +34,14 @@
   * Bases de datos: Comprensión de sistemas de gestión de bases de datos como SQL, NoSQL y herramientas de análisis de datos.
   * Ciberseguridad: Conocimientos en protección de sistemas, análisis de riesgos y gestión de incidentes de seguridad.
   * Cloud computing: Familiaridad con plataformas en la nube como AWS, Azure o Google Cloud, así como habilidades en administración y arquitectura de la nube.
-* **Stack Tecnológico del Curso:**
+* **Stack Tecnológico del Curso:👨‍💻**
   * Frameworks: Estructuras que simplifican el desarrollo, como React, Angular para frontend, y Django, Ruby on Rails para backend.
   * Editores de texto (Visual Studio Code, Sublime Text)
   * Compiladores (Programas que traducen código fuente a un lenguaje que el ordenador pueda entender)
   * Intérpretes ( Python, JavaScript, que traducen el codigo funte)
   * Enlazadores y Depuradores (Herramientas que ayudan a corregir errores y ensamblar partes del software)
   * Entornos Integrados de Desarrollo (Herramientas para programar como Visual Studio)
-* **Preferencias Tecnológicas:**
+* **Preferencias Tecnológicas🏆🏆:**
   * Lo mio es la Codificación y Compilación además de las pruebas si fuera necesario.
     Pero en si,en projectos mas pequeños puedo hacer todo desde el analisis,documentacion hasta la explotacion y mantenimiento.
     Basicamente,en pequeña escala domino todos los [pasos de la creacion de software](https://global.tiffin.edu/blog/cuales-son-las-etapas-del-desarrollo-de-software "Explicacion extensa").
