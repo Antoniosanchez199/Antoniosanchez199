@@ -48,8 +48,9 @@
  ![LaptopGIF](https://github.com/user-attachments/assets/67d6ca3c-b9d8-41ba-8dcd-592eff3174bf)
 
 * **Preferencias Tecnológicas🏆🏆:**
-  * Lo mio es la Codificación y Compilación además de las pruebas si fuera necesario.
+  * Lo mio es la **Codificación y Compilación** además de las pruebas si fuera necesario.
     Pero en si,en projectos mas pequeños puedo hacer todo desde el analisis,documentacion hasta la explotacion y mantenimiento.
     Basicamente,en pequeña escala domino todos los [pasos de la creacion de software](https://global.tiffin.edu/blog/cuales-son-las-etapas-del-desarrollo-de-software "Explicacion extensa").
 
+ 
   ![PorkiEsoEsTodoAmigosGIF](https://github.com/user-attachments/assets/ab5f716f-3201-4e4f-8a67-0b47ffb3edfd)
