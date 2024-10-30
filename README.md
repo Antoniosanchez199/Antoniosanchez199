@@ -29,8 +29,14 @@
   * Sistemas informáticos
 
 ### Demasiadaaas cosaaaassss 🫨
-![DrivingMeNutsExcitedGIF (2)](https://github.com/user-attachments/assets/e71be80d-c557-4a53-b4ef-2b45dd64d67e)![DrivingMeNutsExcitedGIF (2)](https://github.com/user-attachments/assets/e71be80d-c557-4a53-b4ef-2b45dd64d67e)![DrivingMeNutsExcitedGIF (2)](https://github.com/user-attachments/assets/e71be80d-c557-4a53-b4ef-2b45dd64d67e)
+<div aling="center">
+
+  ![DrivingMeNutsExcitedGIF (2)](https://github.com/user-attachments/assets/e71be80d-c557-4a53-b4ef-2b45dd64d67e)![DrivingMeNutsExcitedGIF (2)](https://github.com/user-attachments/assets/e71be80d-c557-4a53-b4ef-2b45dd64d67e)![DrivingMeNutsExcitedGIF (2)](https://github.com/user-attachments/assets/e71be80d-c557-4a53-b4ef-2b45dd64d67e)
+ 
+</div>
+
 ---
+
 * **Stack Tecnológico Conocido☝️🤓:**
   * Programación: Conocimiento en lenguajes como Python, Java, C++, JavaScript, entre otros.
   * Desarrollo web: Habilidades en diseño y desarrollo de sitios web, incluyendo HTML, CSS y Frameworks.
@@ -38,7 +44,11 @@
   * Ciberseguridad: Conocimientos en protección de sistemas, análisis de riesgos y gestión de incidentes de seguridad.
   * Cloud computing: Familiaridad con plataformas en la nube como AWS, Azure o Google Cloud, así como habilidades en administración y arquitectura de la nube.
 
- ![SwitchIgnaceAleyaGIF](https://github.com/user-attachments/assets/2001b4ce-a669-49e5-89ec-15e1be9bb3db)
+<div align="center">
+
+  ![SwitchIgnaceAleyaGIF](https://github.com/user-attachments/assets/2001b4ce-a669-49e5-89ec-15e1be9bb3db)
+
+</div>
 
 * **Stack Tecnológico del Curso👨‍💻:**
   * Frameworks: Estructuras que simplifican el desarrollo, como React, Angular para frontend, y Django, Ruby on Rails para backend.
@@ -47,13 +57,17 @@
   * Intérpretes ( Python, JavaScript, que traducen el codigo funte)
   * Enlazadores y Depuradores (Herramientas que ayudan a corregir errores y ensamblar partes del software)
   * Entornos Integrados de Desarrollo (Herramientas para programar como Visual Studio)
-
+<div align="center">
+ 
  ![LaptopGIF](https://github.com/user-attachments/assets/67d6ca3c-b9d8-41ba-8dcd-592eff3174bf)
+</div>
 
 * **Preferencias Tecnológicas🏆🏆:**
   * Lo mio es la **Codificación y Compilación** además de las pruebas si fuera necesario.
     Pero en si,en projectos mas pequeños puedo hacer todo desde el analisis,documentacion hasta la explotacion y mantenimiento.
     Basicamente,en pequeña escala domino todos los [pasos de la creacion de software](https://global.tiffin.edu/blog/cuales-son-las-etapas-del-desarrollo-de-software "Explicacion extensa").
 
+<div align="center">
  
   ![PorkiEsoEsTodoAmigosGIF](https://github.com/user-attachments/assets/ab5f716f-3201-4e4f-8a67-0b47ffb3edfd)
+</div>
